@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>wang.15022@osu.edu</p>
     <p>305B Cockins Hall</p>
-    <p>1958 Neil Avenue, Columbus, OH, 43210</p>
+    <p>1958 Neil Avenue Columbus, OH, 43210</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
