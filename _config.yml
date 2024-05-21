@@ -172,6 +172,8 @@ include:
   - _pages/404.md
   - _pages/teaching.md
 exclude:
+  - _includes/social.liquid
+  - _includes/selected_papers.liquid
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
