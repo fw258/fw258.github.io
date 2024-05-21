@@ -11,6 +11,6 @@ nav_order: 6
 <div class="section">
   <h2 class="section-title"></h2>
   <ul>
-    <li>Summer 2024 Statistics for the Business Sciences</li>
+    <li>Summer 2024 STAT 1430 Statistics for the Business Sciences</li>
   </ul>
 </div>
