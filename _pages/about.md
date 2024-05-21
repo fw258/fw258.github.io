@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hi! I'm Fangyi Wang, a 4th-year PhD student in the Department of Statistics at the Ohio State University. I am very fortunate to be advised by [Sebastian Kurtek](https://www.asc.ohio-state.edu/kurtek.1/) and [Yuan Zhang](https://www.asc.ohio-state.edu/zhang.7824/). My research interest includes functional and shape data analysis, distribution-free uncertainty quantification methods, Bayesian modeling, and applications in biomedical and social science research.
-Here's my [CV](assets/pdf/CV_Fangyi_Wang.pdf) and [google scholar](https://scholar.google.com/citations?user=7hFXmQEAAAAJ&hl=en).
+Here's my [CV](assets/pdf/CV_Fangyi_Wang.pdf) and [google scholar page](https://scholar.google.com/citations?user=7hFXmQEAAAAJ&hl=en).
