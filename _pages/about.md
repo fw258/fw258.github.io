@@ -7,7 +7,6 @@ subtitle:
 profile:
   align: left
   image: prof_pic.jpg
-  image_style: "width: 800px; height: auto;"
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>wang.15022@osu.edu</p>
