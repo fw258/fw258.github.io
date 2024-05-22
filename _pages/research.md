@@ -15,9 +15,6 @@ nav_order: 2
 
 <div class="section">
   <h3 class="section-title">Publications</h3>
-  <div class="publications">
-    <!-- {% bibliography %} -->
-  </div>
 </div>
 
 <!-- Talks Section -->
