@@ -11,7 +11,7 @@ nav_order: 2
 <div class="section">
   <h2 class="section-title">Publications</h2>
   <div class="publications">
-    {% bibliography %}
+    <!-- {% bibliography %} -->
   </div>
 </div>
 
@@ -24,3 +24,4 @@ nav_order: 2
     <li>08/2023 JSM speed session Empirical Bayesian Shape Model for Estimation and Classification of Fragmented Bovid Teeth</li>
   </ol>
 </div>
+
