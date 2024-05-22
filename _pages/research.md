@@ -8,8 +8,13 @@ nav_order: 2
 ---
 
 <!-- Publications Section -->
+
 <div class="section">
-  <h2 class="section-title">Publications</h2>
+  <h3 class="section-title">Preprints</h3>
+</div>
+
+<div class="section">
+  <h3 class="section-title">Publications</h3>
   <div class="publications">
     <!-- {% bibliography %} -->
   </div>
@@ -17,7 +22,7 @@ nav_order: 2
 
 <!-- Talks Section -->
 <div class="section">
-  <h2 class="section-title">Talks</h2>
+  <h3 class="section-title">Talks</h3>
   <ol>
     <li>07/2024 EcoSta Conformal Prediction for Fragmented Functional Data</li>
     <li>01/2024 APRM Distribution-Free Matrix Prediction Under Arbitrary Missing Pattern</li>
