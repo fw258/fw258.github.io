@@ -11,6 +11,6 @@ nav_order: 6
 <div class="section">
   <h2 class="section-title"></h2>
   <ul>
-    <li>Summer 2024 STAT 1430 Statistics for the Business Sciences</li>
+    <li>Fall 2024/Spring 2025 STAT 1450 Introduction to the Practice of Statistics</li>
   </ul>
 </div>
