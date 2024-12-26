@@ -31,6 +31,6 @@ nav_order: 2
 <div class="section">
   <h3 class="section-title">Recommended Reading</h3>
   <ul>
-    <li><a href="https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice" target="_blank">ASA Ethical Guidelines for Statistical Practice</a></li>
+    <li> <a href="https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice">ASA Ethical Guidelines for Statistical Practice</a></li>
   </ul>
 </div>
