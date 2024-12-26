@@ -27,3 +27,10 @@ nav_order: 2
   </ol>
 </div>
 
+<!-- Recommended Reading Section -->
+<div class="section">
+  <h3 class="section-title">Recommended Reading</h3>
+  <ul>
+    <li><a href="https://ww2.amstat.org/committees/ethics/index.html#responsibilities_publications" target="_blank">ASA Ethical Guidelines for Statistical Practice</a></li>
+  </ul>
+</div>
