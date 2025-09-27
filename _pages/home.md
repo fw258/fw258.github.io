@@ -18,5 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Fangyi Wang, a 4th-year PhD student in the [Department of Statistics](https://stat.osu.edu/) at the Ohio State University. I am very fortunate to be advised by [Sebastian Kurtek](https://www.asc.ohio-state.edu/kurtek.1/) and [Yuan Zhang](https://www.asc.ohio-state.edu/zhang.7824/). My research interest includes functional and shape data analysis, distribution-free uncertainty quantification methods, Bayesian modeling, and applications in biomedical and social science research.
-Here's my [CV](../assets/pdf/CV_Fangyi_Wang.pdf) and [google scholar page](https://scholar.google.com/citations?user=7hFXmQEAAAAJ&hl=en).
+Welcome to my homepage! I'm Fangyi Wang (王方奕), a fifth-year PhD candidate in the [Department of Statistics](https://stat.osu.edu/) at The Ohio State University. Before my PhD study, I completed a B.S. in Biological Sciences at Tianjin University and an M.P.H. in Biostatistics at Yale University. My research interests include functional and shape data analysis, conformal prediction and distribution-free inference, nonparametric methods, Bayesian statistics and applied statistical modeling in public health and social science.
+Here's my [CV](../assets/pdf/CV_Fangyi_Wang.pdf), [research statement](../assets/pdf/research_statement_Fangyi_Wang.pdf) and [Google Scholar page](https://scholar.google.com/citations?user=7hFXmQEAAAAJ&hl=en).
+
+I was born in a small city in Shandong, China, which became famous in 2023 for its [babecue](https://www.bbc.com/news/world-asia-china-65478638).
