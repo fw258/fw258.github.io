@@ -71,6 +71,7 @@ Econometrics and Statistics (EcoSta 2024), Beijing, China.</li>
   <h3 class="section-title">Recommended Readings and Resources</h3>
   <ul>
     <li><a href="https://arxiv.org/abs/2107.07511" target="_blank" rel="noopener">Anastasios Angelopoulos and Stephen Bates - A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification</a></li>
+    <li><a href="https://www.asc.ohio-state.edu/kurtek.1/cbms.html" target="_blank" rel="noopener">CBMS Conference on Elastic Functional and Shape Data Analysis (EFSDA)</a></li>
     <li><a href="https://www.selectiveinferenceseminar.com/" target="_blank" rel="noopener">International Seminar on Selective Inference</a></li>
     <li><a href="https://www.stat.cmu.edu/~aramdas/checklists.html" target="_blank" rel="noopener">Aaditya Ramdas — Advice for PhD students</a></li>
     <li><a href="https://www.stat.cmu.edu/~aramdas/checklists2.html" target="_blank" rel="noopener">Aaditya Ramdas — Advice for assistant professors</a></li>
