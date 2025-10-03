@@ -16,7 +16,7 @@ nav_order: 2
       <b>Wang, F.</b>, Bharath, K., Chkrebtii, O., and Kurtek, S. (2024).
       Probabilistic size-and-shape functional mixed models.
       <em>Advances in Neural Information Processing Systems</em>, 37, 50031–50061.
-      <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/5993213b3f4ef528234836ecfb3b2933-Abstract-Conference.html" target="_blank" rel="noopener">[link]</a>
+      <a href="https://arxiv.org/abs/2411.18416" target="_blank" rel="noopener">[link]</a>
     </li>
   </ol>
 </div>
@@ -46,7 +46,7 @@ nav_order: 2
       Distribution-free matrix prediction under arbitrary missing pattern. <em>In preparation.</em> (*Equal contribution)
     </li>
     <li>
-      Matuk, J., <b>Wang, F.</b>, and Kurtek, S., et al.
+      Matuk, J., <b>Wang, F.</b>, Chkrebtii, O., Bharath, K., Brophy, J., and Kurtek, S.
       Empirical Bayesian shape model for estimation and classification of fragmented fossil bovid teeth. <em>In preparation</em>.
     </li>
   </ol>
