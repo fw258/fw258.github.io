@@ -33,7 +33,7 @@ nav_order: 2
     </li>
     <li>
       Wang, L., Jiao, Z., and <b>Wang, </b>F. (2025).
-      Modifying final splits of classification tree for fine-tuning subpopulation target in policy making. <em>arXiv preprint</em>, arXiv:2502.15072. (under review)
+      Policy-Oriented Binary Classification: Improving (KD-)CART Final Splits for Subpopulation Targeting. <em>arXiv preprint</em>, arXiv:2502.15072. (under review)
       <a href="https://arxiv.org/abs/2502.15072" target="_blank" rel="noopener">[link]</a>
     </li>
     <li>
