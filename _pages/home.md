@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Welcome to my homepage! I'm Fangyi Wang (王方奕), a fifth-year PhD candidate in the [Department of Statistics](https://stat.osu.edu/) at The Ohio State University. Before my PhD study, I completed a B.S. in Biological Sciences at Tianjin University and an M.P.H. in Biostatistics at Yale University. My research interests include functional and shape data analysis, conformal prediction and distribution-free inference, nonparametric methods, Bayesian statistics and applied statistical modeling in public health and social science.
-Here's my [CV](../assets/pdf/CV_Fangyi_Wang.pdf), [research statement](../assets/pdf/research_statement_Fangyi_Wang.pdf) and [Google Scholar page](https://scholar.google.com/citations?user=7hFXmQEAAAAJ&hl=en).
+Here are my [CV](../assets/pdf/CV_Fangyi_Wang.pdf), [research statement](../assets/pdf/research_statement_Fangyi_Wang.pdf) and [Google Scholar page](https://scholar.google.com/citations?user=7hFXmQEAAAAJ&hl=en).
 
-I was born in a small city in Shandong, China, which became famous in 2023 for its [babecue](https://www.bbc.com/news/world-asia-china-65478638).
+I was born in a small city in Shandong, China, which became famous in 2023 for its [barbecue](https://www.bbc.com/news/world-asia-china-65478638).
