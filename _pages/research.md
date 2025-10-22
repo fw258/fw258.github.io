@@ -32,14 +32,14 @@ nav_order: 2
       <a href="https://arxiv.org/abs/2502.15000" target="_blank" rel="noopener">[link]</a>
     </li>
     <li>
+      <b>Wang, F.</b>, Xu, X., Ghias, E., Mooney, S., Stroup, A., Rundle, A., Sowa, W., Henry, K., Harris, G., Li, J., Stanich, P., Hampel, H., and Plascak, J.
+      Description and validation of a built environment audit across space and time for cohort linkages with residential histories. 
+      (under review at <em>Journal of Medical Internet Research</em>)
+    </li>
+    <li>
       Wang, L., Jiao, Z., and <b>Wang, </b>F. (2025).
       Policy-Oriented Binary Classification: Improving (KD-)CART Final Splits for Subpopulation Targeting. <em>arXiv preprint</em>, arXiv:2502.15072. (under review)
       <a href="https://arxiv.org/abs/2502.15072" target="_blank" rel="noopener">[link]</a>
-    </li>
-    <li>
-      <b>Wang, F.</b>, Xu, X., Ghias, E., Mooney, S., Stroup, A., Rundle, A., Sowa, W., Henry, K., Harris, G., Li, J., Stanich, P., Hampel, H., and Plascak, J.
-      Description and validation of a built environment audit across space and time for cohort linkages with residential histories. 
-      <em>In preparation.</em>
     </li>
     <li>
       <b>Wang, F.</b>*, Shao, M.*, and Zhang, Y.
