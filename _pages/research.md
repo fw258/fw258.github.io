@@ -35,6 +35,7 @@ nav_order: 2
       <b>Wang, F.</b>, Xu, X., Ghias, E., Mooney, S., Stroup, A., Rundle, A., Sowa, W., Henry, K., Harris, G., Li, J., Stanich, P., Hampel, H., and Plascak, J.
       Description and validation of a built environment audit across space and time for cohort linkages with residential histories. 
       (under review at <em>Journal of Medical Internet Research</em>)
+      <a href="https://preprints.jmir.org/preprint/86279" target="_blank" rel="noopener">[link]</a>
     </li>
     <li>
       Wang, L., Jiao, Z., and <b>Wang, </b>F. (2025).
