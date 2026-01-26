@@ -18,11 +18,6 @@ nav_order: 2
       <em>Advances in Neural Information Processing Systems</em>, 37, 50031–50061. (NeurIPS 2024)
       <a href="https://arxiv.org/abs/2411.18416" target="_blank" rel="noopener">[link]</a>
     </li>
-    <li>
-      Wang, L., Jiao, Z., and <b>Wang, </b>F. (2026).
-      Policy-Oriented Binary Classification: Improving (KD-)CART Final Splits for Subpopulation Targeting. <em>Twenty-Ninth Annual Conference on Artificial Intelligence and Statistics</em>. (AISTATS 2026)
-      <a href="https://arxiv.org/abs/2502.15072" target="_blank" rel="noopener">[link]</a>
-    </li>
   </ol>
 </div>
 
@@ -30,6 +25,11 @@ nav_order: 2
 <div class="section">
   <h3 class="section-title">Preprints and working papers</h3>
   <ol>
+    <li>
+      Wang, L., Jiao, Z., and <b>Wang, F.</b> (2026).
+      Policy-Oriented Binary Classification: Improving (KD-)CART Final Splits for Subpopulation Targeting. (accepted at AISTATS 2026)
+      <a href="https://arxiv.org/abs/2502.15072" target="_blank" rel="noopener">[link]</a>
+    </li>
     <li>
       <b>Wang, F.</b>, Kurtek, S., and Zhang, Y. (2025).
       Joint registration and conformal prediction for partially observed functional data. <em>arXiv preprint</em>, arXiv:2502.15000.
