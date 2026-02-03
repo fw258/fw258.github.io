@@ -26,14 +26,14 @@ nav_order: 2
   <h3 class="section-title">Preprints and working papers</h3>
   <ol>
     <li>
-      Wang, L., Jiao, Z., and <b>Wang, F.</b> (2026).
+      Wang, L., Jiao, Z., and <b>Wang, F.</b>
       Policy-Oriented Binary Classification: Improving (KD-)CART Final Splits for Subpopulation Targeting. (accepted at AISTATS 2026)
       <a href="https://arxiv.org/abs/2502.15072" target="_blank" rel="noopener">[link]</a>
     </li>
     <li>
-      <b>Wang, F.</b>, Kurtek, S., and Zhang, Y. (2025).
+      <b>Wang, F.</b>, Kurtek, S., and Zhang, Y.
       Joint registration and conformal prediction for partially observed functional data. <em>arXiv preprint</em>, arXiv:2502.15000.
-      (tentative accept subject to satisfactory revisions at <em>Journal of Computational and Graphical Statistics</em>)
+      (accepted at <em>Journal of Computational and Graphical Statistics</em>, 2026)
       <a href="https://arxiv.org/abs/2502.15000" target="_blank" rel="noopener">[link]</a>
     </li>
     <li>
@@ -43,7 +43,7 @@ nav_order: 2
       <a href="https://preprints.jmir.org/preprint/86279" target="_blank" rel="noopener">[link]</a>
     </li>
     <li>
-      <b>Wang, F.</b>*, Shao, M.*, and Zhang, Y.
+      <b>Wang, F.</b>*, Shao, M.*, Qian, Z.* and Zhang, Y.*.
       Distribution-free matrix prediction under arbitrary missing pattern. <em>In preparation.</em> (*Equal contribution)
     </li>
     <li>
