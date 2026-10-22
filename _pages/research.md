@@ -15,8 +15,25 @@ nav_order: 2
     <li>
       <b>Wang, F.</b>, Bharath, K., Chkrebtii, O., and Kurtek, S. (2024).
       Probabilistic size-and-shape functional mixed models.
-      <em>Advances in Neural Information Processing Systems</em>, 37, 50031–50061. (NeurIPS 2024)
+      <em>Advances in Neural Information Processing Systems</em>, 37, 50031–50061. (NeurIPS 2024, poster)
       <a href="https://arxiv.org/abs/2411.18416" target="_blank" rel="noopener">[link]</a>
+    </li>
+    <li>
+      <b>Wang, F.</b>, Kurtek, S., and Zhang, Y. (2026).
+      Joint registration and conformal prediction for partially observed functional data. <em>Journal of Computational and Graphical Statistics</em>, 1-11.
+      <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2026.2634823#abstract" target="_blank" rel="noopener">[link]</a>
+    </li>
+    <li>
+      Wang, L., Jiao, Z., and <b>Wang, F.</b> (2026).
+      Policy-Oriented Binary Classification: Improving (KD-)CART Final Splits for Subpopulation Targeting.
+      <em>Proceedings of The 29th International Conference on Artificial Intelligence and Statistics</em>, 300:721-729. (AISTATS 2026, poster)
+      <a href="https://proceedings.mlr.press/v300/wang26b.html" target="_blank" rel="noopener">[link]</a>
+    </li>
+    <li>
+      <b>Wang, F.</b>, Xu, X., Ghias, E., Mooney, S., Rundle, A., Sowa, W., Henry, K., Stroup, A., Harris, G., Li, J., Stanich, P., Hampel, H., and Plascak, J.
+      Built Environment Audits Across Space and Time for Estimating Time-Varying Exposures: Cohort Study.
+      <em>JMIR Formative Research</em>, 10(1),e86279.
+      <a href="https://formative.jmir.org/2026/1/e86279/" target="_blank" rel="noopener">[link]</a>
     </li>
   </ol>
 </div>
@@ -25,30 +42,16 @@ nav_order: 2
 <div class="section">
   <h3 class="section-title">Preprints and working papers</h3>
   <ol>
-    <li>
-      Wang, L., Jiao, Z., and <b>Wang, F.</b>
-      Policy-Oriented Binary Classification: Improving (KD-)CART Final Splits for Subpopulation Targeting. (accepted at AISTATS 2026)
-      <a href="https://arxiv.org/abs/2502.15072" target="_blank" rel="noopener">[link]</a>
-    </li>
-    <li>
-      <b>Wang, F.</b>, Kurtek, S., and Zhang, Y.
-      Joint registration and conformal prediction for partially observed functional data. <em>arXiv preprint</em>, arXiv:2502.15000.
-      (accepted at <em>Journal of Computational and Graphical Statistics</em>, 2026)
-      <a href="https://arxiv.org/abs/2502.15000" target="_blank" rel="noopener">[link]</a>
-    </li>
-    <li>
-      <b>Wang, F.</b>, Xu, X., Ghias, E., Mooney, S., Stroup, A., Rundle, A., Sowa, W., Henry, K., Harris, G., Li, J., Stanich, P., Hampel, H., and Plascak, J.
-      Description and validation of a built environment audit across space and time for cohort linkages with residential histories. 
-      (under review at <em>Journal of Medical Internet Research</em>)
-      <a href="https://preprints.jmir.org/preprint/86279" target="_blank" rel="noopener">[link]</a>
-    </li>
-    <li>
-      <b>Wang, F.</b>*, Shao, M.*, Qian, Z.* and Zhang, Y.*.
-      Distribution-free matrix prediction under arbitrary missing pattern. <em>In preparation.</em> (*Equal contribution)
-    </li>
+  <li>
+  <b>Wang, F.</b>, Kurtek, S., and Zhang, Y. Conformal Classification and Shape Prediction for Fragmented Curves. <em>Under revision</em>.
+  </li>
     <li>
       Matuk, J., <b>Wang, F.</b>, Chkrebtii, O., Bharath, K., Brophy, J., and Kurtek, S.
-      Empirical Bayesian shape model for estimation and classification of fragmented fossil bovid teeth. <em>In preparation</em>.
+      Empirical Bayesian shape model for estimation and classification of fragmented fossil bovid teeth. <em>Under revision</em>.
+    </li>
+    <li>
+      Shao, M.*, <b>Wang, F.</b>*, Qian, Z.* and Zhang, Y.*.
+      Distribution-free matrix prediction under arbitrary missing pattern. <em>In preparation.</em> (*Equal contribution)
     </li>
   </ol>
 </div>
@@ -81,4 +84,3 @@ Econometrics and Statistics (EcoSta 2024), Beijing, China.</li>
     <li><a href="https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice" target="_blank" rel="noopener">ASA Ethical Guidelines for Statistical Practice</a></li>
   </ul>
 </div>
-
